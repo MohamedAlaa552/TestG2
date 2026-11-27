@@ -1,6 +1,6 @@
 hello
 
 First Change
-Second Change +
+Second Change + Master conflict
 
 Hello From Login Feature
